@@ -6,6 +6,8 @@ body{
     display: flex;
     align-items: center;
     background-color: #ad9f90;
+    margin: 0%;
+
 }
 header img {
     padding: 0%;
